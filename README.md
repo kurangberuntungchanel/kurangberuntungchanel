@@ -10,8 +10,8 @@ Follow this steps :
 
 4. pkg install git
 
-5. git clone https://github.com/vey251/gjk
+5. git clone https://github.com/kurangberuntungchanel/kurangberuntungchanel
 
-6. cd gjk
+6. cd kurangberuntungchanel
 
-7. php woyy.php
+7. php 
